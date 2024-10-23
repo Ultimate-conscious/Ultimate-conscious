@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FinBrief: AI Finance news aggegator**
 
-- 🌱 I’m currently learning **Next.js, CI/CD pipelines and Devops, Kubernetes**
+- 🌱 I’m currently learning **Next.js, CI/CD pipelines and Devops**
 
 - 📫 How to reach me **prlanjewar2002@gmail.com**
 
